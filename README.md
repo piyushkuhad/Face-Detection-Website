@@ -1,6 +1,6 @@
 # Face-Detection-Website
 
-##[Checkout the Project](https://face-detection-appl.herokuapp.com/)
+[##Checkout the Project](https://face-detection-appl.herokuapp.com/)
 
 This Website uses Face Detection API(Clarifai Face Detection API). Just enter the image link in input field and Click Detect. 
 
